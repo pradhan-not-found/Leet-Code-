@@ -14,7 +14,7 @@ The problems are organized systematically. Below is a template for tracking the 
 
 | Problem ID | Problem Title | Data Structure / Topic | Difficulty | Solution Link |
 |------------|---------------|------------------------|------------|---------------|
-| 20 | Valid Parentheses | Stack, Hash Table | Easy | [Python](1-200/20-Valid-Parentheses/solution.py) |
+| 20 | Valid Parentheses | Stack, Hash Table | Easy | [Python](1-200/20-Valid-Parentheses.py) |
 
 ---
 
